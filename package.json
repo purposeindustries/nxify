@@ -1,0 +1,23 @@
+{
+  "name": "nxify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruffle1986/nxify.git"
+  },
+  "author": "ruff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruffle1986/nxify/issues"
+  },
+  "homepage": "https://github.com/ruffle1986/nxify",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.1"
+  }
+}
