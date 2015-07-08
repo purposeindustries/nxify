@@ -38,7 +38,7 @@ console.log(url); // output: 'path/to/your/image@3x.png'
 
 ## Arguments
 
-It waits for two parameters
+It waits for two arguments
 
 - path (String)   path to the image you'd like to modify
 - [pixelRatio=2]  the pixel ratio multiplier (default: 2)
@@ -51,4 +51,4 @@ $ npm test
 
 ## License
 
-  [MIT](LICENSE)
+  MIT
