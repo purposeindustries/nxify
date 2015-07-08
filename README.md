@@ -1,5 +1,4 @@
-nxify
-=====
+# nxify
 
 Nxify allows you to modify your image urls based on the pixel ratio of the user's device.
 

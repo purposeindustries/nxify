@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruffle1986/nxify.git"
+    "url": "https://github.com/purposeindustries/nxify.git"
   },
   "author": "ruff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ruffle1986/nxify/issues"
+    "url": "https://github.com/purposeindustries/nxify/issues"
   },
-  "homepage": "https://github.com/ruffle1986/nxify",
+  "homepage": "https://github.com/purposeindustries/nxify",
   "devDependencies": {
     "mocha": "^2.2.5",
     "should": "^7.0.1"
