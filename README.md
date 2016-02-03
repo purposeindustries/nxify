@@ -1,4 +1,5 @@
 # nxify
+[![Build Status](https://circleci.com/gh/purposeindustries/nxify.svg?&style=shield)](https://circleci.com/gh/purposeindustries/nxify)
 
 Nxify allows you to modify your image urls based on the pixel ratio of the user's device.
 
@@ -8,7 +9,7 @@ Nxify allows you to modify your image urls based on the pixel ratio of the user'
 $ npm install nxify
 ```
 
-## Usage  
+## Usage
 
 ```js
 
